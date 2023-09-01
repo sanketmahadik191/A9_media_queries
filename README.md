@@ -2,6 +2,8 @@
 
 This project is a responsive landing page for Certified Coffee Courses. It utilizes HTML and CSS to create an attractive and user-friendly web page.
 
+Hosted Link _ https://sanketmahadik191.github.io/A9_media_queries/
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
